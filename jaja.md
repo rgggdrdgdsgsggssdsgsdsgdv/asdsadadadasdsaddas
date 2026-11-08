@@ -8,6 +8,14 @@ i am javascode develomer
 
 *Exampel:*
 
+```javascript
 
+const Vitya = 'kluch na 12'
+if (Vitya==='kluch na 13'){
+console.log("Ce ne Vitya")
+}
+```
+Moya lubimaya musica:
+[radio](https://gachi-fm.org/)
 
 
